@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Aoudax';
-    src: url('https://raw.githubusercontent.com/web3thug-web/fonts/main/aoudaxcyrillic.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/web3thug-web/fonts@main/aoudaxcyrillic.woff') format('woff');
 }
 
 body {
