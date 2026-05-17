@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Aoudax';
+    src: url('https://raw.githubusercontent.com/web3thug-web/fonts/main/aoudaxcyrillic.woff') format('woff');
+}
+
+body {
+    font-family: 'Aoudax', sans-serif;
+}
